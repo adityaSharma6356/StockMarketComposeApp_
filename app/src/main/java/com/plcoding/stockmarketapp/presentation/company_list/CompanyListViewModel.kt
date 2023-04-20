@@ -1,4 +1,4 @@
-package com.plcoding.stockmarketapp.presentation.company_list
+ com.plcoding.stockmarketapp.presentation.company_list
 
 import androidx.lifecycle.ViewModel
 import com.plcoding.stockmarketapp.domain.repository.StockRepository
