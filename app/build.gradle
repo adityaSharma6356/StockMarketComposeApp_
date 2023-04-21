@@ -112,4 +112,7 @@ dependencies {
 
     // Kotlin Extensions and Coroutines support for Room
     implementation "androidx.room:room-ktx:2.4.2"
+
+    // System bars color/appearance
+    implementation "com.google.accompanist:accompanist-systemuicontroller:0.24.6-alpha"
 }
